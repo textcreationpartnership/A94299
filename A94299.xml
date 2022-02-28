@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender salutation to the seed.</title>
+            <author>Thornton, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94299</idno>
+            <idno type="STC">Wing T1060</idno>
+            <idno type="STC">ESTC R206445</idno>
+            <idno type="EEBO-CITATION">45789426</idno>
+            <idno type="OCLC">ocm 45789426</idno>
+            <idno type="VID">172736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172736)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2647:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender salutation to the seed.</title>
+                  <author>Thornton, Samuel.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Samuel Thornton.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172736:1"/>
+            <head>A Tender Salutation to the SEED.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Rom the breathing of my life which I feel opening in the bowells of my Fathers love flowing forth to you, that we may be refreſhed one in another; O thou Seed, thou Heir, thou beautifull branch and plant of the Lord for the healing of the Nations which ſhall flye and flock unto thee, as the Doves unto the windowes; O thou beautifull Bride, embrace thy Beloved, who ſtands ready to adorn thee, and to put his Comlineſſe upon thee to purge and purify, and make an everlaſting Covenant with thee to be eſpouſed to thee for ever: this is the Lamb, the dread of all Nations, the Lamb of God, oh bleſſed are they that receive him in the way of his Coming, it is through the ſuffering, put it not afarre off from you, priſe the day of <hi>Sion's</hi> viſitation; oh my ſoul! praiſe thou the Lord for ever, who hath hid theſe things from the wiſe and prudent, and revealed them unto Lambes who love thy Law, and delight in Judgement, O let it be our delight for ever there to be found, in the fiery tryall and furnace of affliction, till the Rebellious be deſtroyed, thy wrath and fury pacified, and thy indignation paſſed over, and thy ſeed brought forth through the great tribulation, where the wicked cannot paſſe: oh the mournful Seed of the Kingdome! ariſe, ariſe, ſhake off the duſt and clods of the earth, let the grave clothes fall off which oppreſſe the juſt; preſſe forward, forget what is behind, ſhine forth for the glory of the Lord is ariſen upon thee; thou art the Lady of King<g ref="char:EOLhyphen"/>domes, and the deſire of Nations ſhall be after thee, and all ſhall bow and be wearied out before thee that is not of thee, it is the word of the Lord God that ariſeth in my heart unto thee; for the banner of Gods Righteouſneſſe ſhall be diſplayed through thee, and in patience thou ſhalt overcome, for thou art the Choſen of the Lord, the burthenſome ſtone; he that ſmiteth at thee ſhall be broken, he that ſmiteth ſhall be ſmitten, he that hath led captive is the Lord leading into captivity; for this is the ſtone cut out of the mountain without hands, that let us ſee our enemies to be they of our own houſe; oh you ſpiritual plants feel me, you who know from whence warres and fightings comes, who are exerciſed in the ſpiritual warfare, follow, follow, follow the Lamb who leads out of ſtrife through death to life, through judgement to mercy, through the daily Croſſe to the Crown; this is Jeſus manifeſted in our mortall bodies, praiſes for ever, praiſes for ever, oh feel the rayes and overcomings of his life, that my ſoul is overcomed with that which flowes to you, for my ſoul is poured forth in the remembrance of you which abide in your places; keep in the Croſs, dwell in the power, ſtand in the Authority of the Lord, a witneſſe living, pure, ſimple, ſingle hearted before God and man, ſo keeping peace with all, in the indwellling life with the Lord, where none can make you a<g ref="char:EOLhyphen"/>fraid, and keep your meetings in the fear, dread, and power of the Lord God, be not afraid of the threatning of the wicked, nor overcome with their flatteries, but ſtand a witneſſe for the Lord, and he will plead your Cauſe in their hearts, and deal with them in his own time, oh let bowells of pity flow forth to them, for they know not what they doe, the Lord forgive them, if it may ſtand with thy glory, and bring them into Covenant with thy ſelf; And</p>
+            <p>Dear friends abide in the Covenenant, keep in the Fathers houſe, look not out, let nothing ſhake your confidence, keep to your firſt love, in which you were gathered, in the light which is eternal and un<g ref="char:EOLhyphen"/>changeable, and ſhall remain and abide for ever, though Gods enemies may be ſuffered to remove us into holes and priſons for the tryal of our faith, but the Teacher hath manifeſted his love unto us, through the anointing, that teacheth us, that ſhall never be removed into a corner: So dear Lambes learn of him, who careth for you, who will inſtruct and direct you by the pourings forth of his holy ſpirit upon you; And</p>
+            <p>Dear friends, turn in, ſee the end for which the Lord hath choſen you and your ſtanding in him, who hath all time in his hand, Center not below him, but follow him, for great is the Call and high, wherewith the Lord hath called us, ſeek not to be at eaſe, join not to the oppreſſour, keep to that which divides and ſeparates, ſo ſhall you be made a bleſſing in the hand of the Lord, and not look down, but dwell in the long<g ref="char:EOLhyphen"/>ſufferings, in the patience, and God will give you the heathen for your inheritance, and the uttermoſt parts of the earth for the poſſeſſion of the Righteous Seed in you, and you ſhall be made the praiſe of the whole earth, and your enemies ſhall become your friends, as in ſome meaſure they are ſeen in this trying day in the hand of the Lord, doing ſervice for him; ſo be not troubled at them, for the Lord hath the diſpoſing of them, amd what they have done, the work laid out for them to doe, the Lord will either bring them in, or lay them aſide, for all power is in his hand; good is the name of the Lord, it is as precious ointment poured forth to us who feel the drawings of the cords of his love, oh let our ſouls delight to dwell with him, in whom there is no wearineſſe, nor ſhadow of turning, but we may runne the race with patience, in the wayes of his Commandements, there to delight our ſouls in the ocean of his life, to drink of the river of his pleaſure, that we may live and grow and ſhine forth, ſerving the Lord in fear, and our generation in faithfulneſſe, quitting our ſelves like men walking clear of all, that the bloud of none may be required at our hands, not loving our lives to death to do his will: This is the deſire of your ſuffering brother, we may all here be found a ſweet ſavour to the Lord, and one unto another, unto the end, and in the end.</p>
+            <closer>Amen.</closer>
+            <closer>
+               <dateline>Written in <hi>York</hi> Castle,</dateline> 
+               <signed>by your dear Brother, and lover of your ſouls, known unto you by the name of
+<hi>Samuel Thornton.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
